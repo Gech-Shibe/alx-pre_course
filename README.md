@@ -1,1 +1,1 @@
-updated readme My srconed
+updated readme My seconed
